@@ -1,4 +1,4 @@
-# Mini Project
+# Mini Project 1
 import tkinter
 import tkinter.ttk
 import tkinter.messagebox
